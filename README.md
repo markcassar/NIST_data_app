@@ -2,7 +2,7 @@
 
 Installation Instructions
 
-Final app code is in file "android-dbug_1.apk"
+Final app code is in file "android-debug_2.apk"
 
 This is an unsigned Adroid app and can be installed on any Android device 4.0 or higher.
 
